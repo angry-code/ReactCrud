@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "AMan SHarma",
+      "username": "Aman",
+      "email": "aman@gamil.com",
+      "phone": "78864",
+      "id": 1
+    },
+    {
+      "name": "aman",
+      "username": "asd",
+      "email": "dsa",
+      "phone": "sdas",
+      "id": 3
+    },
+    {
+      "name": "hey",
+      "username": "heyaman",
+      "email": "aha",
+      "phone": "aha",
+      "id": 4
+    }
+  ]
+}
